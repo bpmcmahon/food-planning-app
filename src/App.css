@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+input[type="text"] {
+  width: 100%;
+  max-width: 300px; /* You can adjust the width as needed */
+  padding: 10px;
+  margin: 10px;
+}
